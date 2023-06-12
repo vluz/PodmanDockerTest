@@ -2,6 +2,7 @@
 ### A Podman/Docker test of containerizing a python interactive script
 
 The script is a common example of BeautifulSoup, it just serves as a interactive python script for container
+taken from a tutorial in https://www.python-engineer.com/posts/movie-selection/ 
 
 <hr>
 
