@@ -7,6 +7,11 @@ https://www.python-engineer.com/posts/movie-selection/
 <br>
 It serves as an example of a interactive python script for the container.
 
+<hr>
+
+Docker Desktop: https://www.docker.com/products/docker-desktop/
+<br>or<br>
+Podman Desktop: https://podman-desktop.io/
 
 <hr>
 
